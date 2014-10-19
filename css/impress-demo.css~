@@ -181,7 +181,7 @@ a:focus {
 
     width: 900px;
     height: 700px;
-    padding: 20px 30px;
+    padding: 40px 60px;
 
     background-color: white;
     border: 1px solid rgba(0, 0, 0, .3);
